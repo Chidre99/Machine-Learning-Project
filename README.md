@@ -3,9 +3,11 @@ First Machine Learning Project
 # Environment name  - venv
 
 # Create conda env
-create conda envvironment
+create conda environment
 ```
 conda create -p venv python == 3.7 -y
+```
+To activate environment
 ```
 conda activate venv/
 ```
